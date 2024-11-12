@@ -1,0 +1,22 @@
+${Introduction to the Fibonacci Sequence}
+What Fibonacci sequence is?
+${Definition:-}
+The Fibonacci sequence is a series of numbers where each number (known as a Fibonacci number) is the sum of the two preceding ones. It typically starts with 0 and 1 or 0 and 0.
+ The sequence goes:
+0,1,1,2,3,5,8,13,21,34,55,...
+${Significance:-}
+The Fibonacci sequence not only holds mathematical significance but also reveals profound connections within nature and practical applications in fields like finance. Its beauty lies in its simplicity and its ability to describe complex patterns found throughout our world. Whether you're studying mathematics or observing nature's design, the Fibonacci sequence offers endless fascination and insight. The Fibonacci sequence is not just a mathematical curiosity; it represents fundamental principles that govern growth patterns in nature and art. Its connections with various fields, from biology to finance, demonstrate its universal relevance. By understanding the properties and applications of this remarkable sequence, we gain insight into both mathematical theory and real-world phenomena. As we continue exploring mathematics and its applications, let us appreciate how concepts like the Fibonacci sequence enrich our understanding of the world around us. Whether through its aesthetic beauty or practical utility, the Fibonacci sequence remains a captivating subject worthy of study and admiration.
+${Recursive Nature:-}
+The recursive formula defining the Fibonacci sequence means that each term relies on its predecessors. This property makes it an excellent example of recursion in mathematics.
+${Formula:-}
+
+ Fn = Fn-1 + Fn-2
+ Fn-1 = the previous term;
+ Fn-2 = the term before that;
+
+Example:-
+5 = 3 + 2;
+${The most important phenomenon of the Fibonacci sequence:-}
+The Golden Ratio - The Divine Proportion
+How the ratio of successive Fibonacci numbers approximates the golden ratio? = 1.61803. As the sequence progresses, the ratio between consecutive Fibonacci numbers gets closer to this golden ratio. The ratio as we divide two consecutive terms of the Fibonacci sequence is the most beautiful and important part of this sequence. The human body itself exhibits Fibonacci proportions. The ratio of the length of the forearm to the length of the hand, for example, is often close to the Golden Ratio.
+Many composers have used the sequence to structure their compositions and create harmonious melodies.
