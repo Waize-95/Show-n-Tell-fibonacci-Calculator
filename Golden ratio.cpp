@@ -5,7 +5,7 @@ using namespace std;
 
 int main() 
 {
-    const int N = 90;
+    const int N = 10;
     long long fibonacci[N];
 
     fibonacci[0] = 0;
