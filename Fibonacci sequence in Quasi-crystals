@@ -1,0 +1,108 @@
+1 Introduction to the Fibonacci Sequence
+What Fibonacci sequence is?
+1.1 Definition:-
+The Fibonacci sequence is a series of numbers where each number (known as
+a Fibonacci number) is the sum of the two preceding ones. It typically starts
+with 0 and 1 or 0 and 0. The sequence goes: 0,1,1,2,3,5,8,13,21,34,55,...
+1.2 Formula:-
+Fn = Fn-1 + Fn-2; Fn-1 = the previous term; Fn-2 = the term before that;
+Example:- 5 = 3 + 2
+1.3 Recursive Nature:-
+The recursive formula defining the Fibonacci sequence means that each term re-
+lies on its predecessors. This property makes it an excellent example of recursion
+in mathematics.
+1.4 Historical Background
+The sequence was introduced to the Western world by Leonardo of Pisa, known
+as Fibonacci, in his 1202 book ”Liber Abaci” (The Book of Calculation). Fi-
+bonacci used the sequence to illustrate the growth pattern of a population of
+rabbits, starting from a single pair, assuming that every month each pair of
+mature rabbits produces a new pair, which becomes productive from the second
+month on. The Book of Calculations by Liber Abaci explains the power of the
+Fibonacci sequence. How it emerges in the world.
+1.5 Fibonacci sequence First discovery
+Fibonacci was not discovered by Liber Abaci but in ancient India 1000s of
+years ago. The Sanskrit grammarian ’Pingala’ mentioned a sequence resembling
+1
+Fibonacci’s in texts dating back to the 5th century BC and the 3rd century AD.
+Liber Abaci’s contribution was that he introduced it to the Western world and
+showed growth patterns through it.
+If you want to know how many miles in a km you can just see the Fibonacci
+sequence. 8 miles = 13km, And 90 km round down to 89km = 55 miles.
+2 Fibonacci Numbers in Quantum Mechanics
+2.1 Quantum Mechanics and Quantum Computing
+Quantum mechanics is a fundamental theory in physics that describes the be-
+havior of particles at the smallest scales, such as atoms and subatomic particles.
+It fundamentally differs from classical physics in several ways, focusing on the
+probabilistic nature of phenomena rather than deterministic laws.
+Quantum computing is an area of computing that leverages the principles of
+quantum mechanics to process information in fundamentally different ways than
+classical computers. Unlike classical computers, which use bits as the smallest
+unit of data (represented as 0s or 1s), quantum computers use quantum bits or
+qubits.
+Recent research has shown that Fibonacci numbers can appear in the behavior
+of quantum particles. Specifically, the sequence has been observed in the energy
+levels of certain quantum systems. This is a groundbreaking area of study that
+combines the elegance of mathematical sequences with the mysterious world of
+quantum physics.
+2.2 Connection with Mathematics and Nature
+This connection is amazing because it bridges the gap between abstract math-
+ematics and the fundamental nature of reality. It suggests that the Fibonacci
+sequence, which we often associate with natural patterns and growth, also plays
+a role in the behavior of particles at the smallest scales. This insight could lead
+to new ways of understanding quantum systems and potentially new technolo-
+gies based on quantum mechanics.
+2.3 Knowledge about It
+Most people are unaware of this connection because it’s a relatively new area of
+research. The idea that a simple mathematical sequence could have implications
+for quantum mechanics is both surprising and exciting. It opens up a whole new
+realm of possibilities for interdisciplinary studies and applications.
+2.3.1 Why It’s Rarely Known
+Quantum mechanics is already a complex and specialized field, and the appear-
+ance of Fibonacci numbers adds another layer of complexity. This intersection
+2
+of mathematics and physics is not widely covered in mainstream education or
+media, making it a hidden gem for those interested in both areas.
+2.4 Recent Research
+Recent studies have shown that Fibonacci numbers can play a role in the be-
+havior of quantum particles. Physicists have conducted experiments where they
+used laser pulses following the Fibonacci sequence to interact with quantum
+systems. The results were astonishing: the quantum states of particles lasted
+significantly longer than expected.
+2.5 New Phase of Matter
+In one experiment, physicists shot laser pulses mimicking the Fibonacci sequence
+at a quantum computer. This created a new phase of matter that is particularly
+robust in preserving quantum information. This phase is more stable than cur-
+rent methods used in quantum computing, which is a significant breakthrough.
+Let me break this down into simpler parts:
+1. First, the problem they’re trying to solve: - Quantum computers are very
+fragile - They easily lose their quantum information (like a delicate house of
+cards falling down) - Scientists need ways to make quantum information last
+longer
+2. The Fibonacci sequence: - It’s a simple pattern: 1, 1, 2, 3, 5, 8, 13... -
+Each number is the sum of the two before it - Think of it like a special rhythm
+or pattern
+3. What they did: - They used lasers to ”poke” atoms in the quantum
+computer - Instead of poking randomly, they poked following the Fibonacci
+pattern - Like playing a drum following a specific rhythm
+4. What happened: - This created a special arrangement of atoms (a new
+”phase of matter”) - Think of it like turning water (one phase) into ice (another
+phase) - But this is a quantum phase, much more exotic
+5. Why it’s important: - This new phase is more stable - Like building a
+stronger house of cards that doesn’t fall down easily - This could help make
+quantum computers more reliable
+The breakthrough is similar to finding a way to make a sensitive musical
+instrument that stays in tune longer instead of going out of tune quickly.
+2.6 Quasicrystals and Quantum Coherence
+The Fibonacci sequence acts as a quasi-periodic sequence, meaning it is ordered
+but not repeating. This quasi-periodic nature helps cancel out errors that typ-
+ically occur at the edges of quantum states, allowing the quantum states to
+remain coherent for much longer periods. This is crucial for the development of
+reliable quantum computers.
+3
+2.6.1 Discovery
+In 1984, physicist Dan Shechtman discovered quasicrystals, a finding so revolu-
+tionary it earned him a Nobel Prize in Chemistry in 2011. These quasicrystals
+exhibit a form of symmetry called ”five-fold symmetry,” which is forbidden in
+traditional crystallography. The discovery sparked immense interest because it
+challenged the previously held beliefs about atomic structure.
+4
