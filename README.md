@@ -155,136 +155,45 @@ These examples illustrate how Fibonacci patterns offer structural stability, spa
 
 * BSCS 24115 Syed Zain Ali Kazmi  
 
-Introduction to the�Fibonacci Sequence
+1 Introduction to the Fibonacci Sequence
 What Fibonacci sequence is?
-
-Definition:-
-The Fibonacci sequence is a series of numbers where each number (known as a Fibonacci number) is the sum of the two preceding ones. It typically starts with 0 and 1 or 0 and 0.
- The sequence goes:
-0,1,1,2,3,5,8,13,21,34,55,�
-
-Significance:-
-The Fibonacci sequence not only holds mathematical significance but also reveals profound connections within nature and practical applications in fields like finance. Its beauty lies in its simplicity and its ability to describe complex patterns found throughout our world. Whether you're studying mathematics or observing nature's design, the Fibonacci sequence offers endless fascination and insight. The Fibonacci sequence is not just a mathematical curiosity; it represents fundamental principles that govern growth patterns in nature and art. Its connections with various fields�from biology to finance�demonstrate its universal relevance. By understanding the properties and applications of this remarkable sequence, we gain insight into both mathematical theory and real-world phenomena. As we continue exploring mathematics and its applications, let us appreciate how concepts like the Fibonacci sequence enrich our understanding of the world around us. Whether through its aesthetic beauty or practical utility, the Fibonacci sequence remains a captivating subject worthy of study and admiration.
-
-Recursive Nature:-
+1.1 Definition:-
+The Fibonacci sequence is a series of numbers where each number (known as
+a Fibonacci number) is the sum of the two preceding ones. It typically starts
+with 0 and 1 or 0 and 0. The sequence goes: 0,1,1,2,3,5,8,13,21,34,55,...
+1.2 Formula:-
+Fn = Fn-1 + Fn-2; Fn-1 = the previous term; Fn-2 = the term before that;
+Example:- 5 = 3 + 2
+1.3 Recursive Nature:-
 The recursive formula defining the Fibonacci sequence means that each term relies on its predecessors. This property makes it an excellent example of recursion in mathematics.
-
-Formula:-
-Fn = Fn-1 + Fn-2,
-Fn-1 = the previous term;
-Fn-2 = the term before that;
-
-Example:-
-5 = 3 + 2;
-The most important phenomenon of the Fibonacci sequence:-
-The Golden Ratio - The Divine Proportion
-How the ratio of successive Fibonacci numbers approximates the golden ratio? = 1.61803. As the sequence progresses, the ratio between consecutive Fibonacci numbers gets closer to this golden ratio. The ratio as we divide two consecutive terms of the Fibonacci sequence is the most beautiful and important part of this sequence. The human body itself exhibits Fibonacci proportions. The ratio of the length of the forearm to the length of the hand, for example, is often close to the Golden Ratio.
-Many composers have used the sequence to structure their compositions and create harmonious melodies.
-
-Historical Background
-The sequence was introduced to the Western world by Leonardo of Pisa, known as Fibonacci, in his 1202 book "Liber Abaci" (The Book of Calculation). Fibonacci used the sequence to illustrate the growth pattern of a population of rabbits, starting from a single pair, assuming that every month each pair of mature rabbits produces a new pair, which becomes productive from the second month on.
-The Book of Calculations by Liber Abaci explains the power of the Fibonacci sequence. How it emerges in the world.
-Fibonacci sequence First discovery
-Fibonacci was not discovered by Liber Abaci but in ancient India 1000s of years ago. The Sanskrit grammarian�Pingala�mentioned a sequence resembling Fibonacci's in texts dating back to between the 5th century BC and the 3rd century�AD.
-Liber Abaci�s contribution was that he introduced it to the Western world and showed growth patterns through it.
-The literal meaning of Fibonacci:-
-The literal meaning of Fibonacci is �son of the Bonacci clan�.
-Multiples in Fibonacci number
-* Every 3rd Fibonacci number is a multiple of 2.
-* Every 4th Fibonacci number is a multiple of 3.
-* Every 5th Fibonacci number is a multiple of 5.
-* Every 6th Fibonacci number is a multiple of 8.
-* And so on.
-
-What was the Fibonacci New Year?
-The Fibonacci new year was 1/1/23.
-Do you know how many kilo-meters are in a mile?
-There are 1.6 miles in 1 km. 1.6 is the value of the Golden ratio.
-If you want to know how many miles in a km you can just see the Fibonacci sequence.
-8 miles = 13km,
-And 90 km round down to 89km = 55 miles.
-Introduction to Spiral
-Spiral is the concept of the Fibonacci number. The number of petals in a flower, and leaves are all according to the Fibonacci sequence. Spiral on a pine cone or the head of a sunflower is often a Fibonacci sequence.
-Fibonacci in Trading: A Powerful Tool for Technical Analysis
-The Fibonacci sequence is used in trading to predict price levels. Fibonacci is a tool which used in two main studies:-
-Retracement and Extension:-
-The retracement predicts where the price will pull back (to entry levels), and the extension predicts the level that the price will push beyond the initial trend (exit levels).
-Key Fibonacci Ratios:
-* 23.6%: A minor retracement level
-* 38.2%: A significant retracement level
-* 50%: A psychological level often used in trading
-* 61.8%: A major retracement level, also known as the Golden Ratio � 
-* 78.6%: A strong retracement level
-Downtrends
-It starts from swing high to swing low.
-Uptrends
-It starts from swing low to swing high.
-Introduction to Torus Field:-
-A�torus field�refers to a geometric structure resembling a doughnut shape (torus) that can be used to describe various physical phenomena. In mathematics and physics, toroidal structures are often used to model systems with circular symmetry or periodic boundary conditions.
-Relationship between Fibonacci Sequence and Torus Field:-
-* The Fibonacci sequence is closely related to the�Golden Ratio�(approximately 1.618), which appears in various geometrical constructions, including those involving toroidal shapes. The ratio of successive Fibonacci numbers converges to the Golden Ratio as�n�increases.
-* When visualizing the Fibonacci sequence through spirals (often seen in nature), these spirals can be mapped onto a toroidal surface. This connection illustrates how mathematical sequences can manifest in three-dimensional shapes.
-Computational Models:-
-In computational mathematics and simulations involving toroidal geometries (like simulations of fluid dynamics or wave propagation), Fibonacci numbers can be used to establish grid points or sampling methods that reflect natural growth patterns.
-Connection with Other Mathematical Concepts:-
-The Fibonacci sequence relates closely to other mathematical constructs:
-* Lucas Numbers:�Another integer sequence defined similarly but starting with different initial values.
-
-The Great Pyramid of Giza:
-* Some theories suggest that the dimensions of the Great Pyramid incorporate the Golden Ratio.
-* The ratio of the height to half the base length is close to the Golden Ratio.
-Fibonacci in Cryptography - Secret Code of Numbers
-* Encrypting with Fibonacci: Fibonacci sequences create complex keys for encryption, helping secure digital communications.
-* Explain how patterns that grow non-linearly (like Fibonacci) make it hard to crack codes, a reason why it�s popular in cryptography.
-Fibonacci in Sports:-
-From golf to martial arts, body movements and timing can align with Fibonacci sequences, helping optimize performance and reduce fatigue.
-
-Fibonacci � A basis for e^x:-
-Fibonacci number can also give the basis for a function whose derivative is also itself.
+1.4 Historical Background
+The sequence was introduced to the Western world by Leonardo of Pisa, known as Fibonacci, in his 1202 book ”Liber Abaci” (The Book of Calculation). Fibonacci used the sequence to illustrate the growth pattern of a population of rabbits, starting from a single pair, assuming that every month each pair of mature rabbits produces a new pair, which becomes productive from the second month on. The Book of Calculations by Liber Abaci explains the power of the Fibonacci sequence. How it emerges in the world.
+1.5 Fibonacci sequence First discovery
+Fibonacci was not discovered by Liber Abaci but in ancient India 1000s of
+years ago. The Sanskrit grammarian ’Pingala’ mentioned a sequence resembling Fibonacci’s in texts dating back to the 5th century BC and the 3rd century AD. Liber Abaci’s contribution was that he introduced it to the Western world and showed growth patterns through it.
+If you want to know how many miles in a km you can just see the Fibonacci
+sequence. 8 miles = 13km, And 90 km round down to 89km = 55 miles.
 2 Fibonacci Numbers in Quantum Mechanics
-Recent research has shown that Fibonacci numbers can appear in the behavior
-of quantum particles. Specifically, the sequence has been observed in the energy
-levels of certain quantum systems. This is a groundbreaking area of study that
-combines the elegance of mathematical sequences with the mysterious world of
-quantum physics.
-2.1 Connection with Mathematics and Nature
-This connection is amazing because it bridges the gap between abstract math-
-ematics and the fundamental nature of reality. It suggests that the Fibonacci
-sequence, which we often associate with natural patterns and growth, also plays
-a role in the behavior of particles at the smallest scales. This insight could lead
-to new ways of understanding quantum systems and potentially new technolo-
-gies based on quantum mechanics.
-2.2 Knowledge about It
-Most people are unaware of this connection because it’s a relatively new area of
-research. The idea that a simple mathematical sequence could have implications
-for quantum mechanics is both surprising and exciting. It opens up a whole new
-realm of possibilities for interdisciplinary studies and applications.
-2.2.1 Why It’s Rarely Known
-Quantum mechanics is already a complex and specialized field, and the appear-
-ance of Fibonacci numbers adds another layer of complexity. This intersection
-of mathematics and physics is not widely covered in mainstream education or
-media, making it a hidden gem for those interested in both areas.
-
-
-2.3 Recent Research
-Recent studies have shown that Fibonacci numbers can play a role in the be-
-havior of quantum particles. Physicists have conducted experiments where they
-used laser pulses following the Fibonacci sequence to interact with quantum
-systems. The results were astonishing: the quantum states of particles lasted
-significantly longer than expected.
-2.4 New Phase of Matter
-In one experiment, physicists shot laser pulses mimicking the Fibonacci sequence
-at a quantum computer. This created a new phase of matter that is particularly
-robust in preserving quantum information. This phase is more stable than cur-
-rent methods used in quantum computing, which is a significant breakthrough.
+2.1 Quantum Mechanics and Quantum Computing
+Quantum mechanics is a fundamental theory in physics that describes the behavior of particles at the smallest scales, such as atoms and subatomic particles.
+It fundamentally differs from classical physics in several ways, focusing on the probabilistic nature of phenomena rather than deterministic laws.
+Quantum computing is an area of computing that leverages the principles of quantum mechanics to process information in fundamentally different ways than classical computers. Unlike classical computers, which use bits as the smallest unit of data (represented as 0s or 1s), quantum computers use quantum bits or qubits.
+Recent research has shown that Fibonacci numbers can appear in the behavior of quantum particles. Specifically, the sequence has been observed in the energy levels of certain quantum systems. This is a groundbreaking area of study that combines the elegance of mathematical sequences with the mysterious world of quantum physics.
+2.2 Connection with Mathematics and Nature
+This connection is amazing because it bridges the gap between abstract mathematics and the fundamental nature of reality. It suggests that the Fibonacci sequence, which we often associate with natural patterns and growth, also plays a role in the behavior of particles at the smallest scales. This insight could lead to new ways of understanding quantum systems and potentially new technologies based on quantum mechanics.
+2.3 Knowledge about It
+Most people are unaware of this connection because it’s a relatively new area of research. The idea that a simple mathematical sequence could have implications for quantum mechanics is both surprising and exciting. It opens up a whole new realm of possibilities for interdisciplinary studies and applications.
+2.3.1 Why It’s Rarely Known
+Quantum mechanics is already a complex and specialized field, and the appearance of Fibonacci numbers adds another layer of complexity. This intersection of mathematics and physics is not widely covered in mainstream education or media, making it a hidden gem for those interested in both areas.
+2.4 Recent Research
+Recent studies have shown that Fibonacci numbers can play a role in the behavior of quantum particles. Physicists have conducted experiments where they
+used laser pulses following the Fibonacci sequence to interact with quantum systems. The results were astonishing: the quantum states of particles lasted significantly longer than expected.
+2.5 New Phase of Matter
+In one experiment, physicists shot laser pulses mimicking the Fibonacci sequence at a quantum computer. This created a new phase of matter that is particularly
+robust in preserving quantum information. This phase is more stable than current methods used in quantum computing, which is a significant breakthrough.
 Let me break this down into simpler parts:
-1. First, the problem they’re trying to solve: - Quantum computers are very
-fragile - They easily lose their quantum information (like a delicate house of
-cards falling down) - Scientists need ways to make quantum information last
-longer
-2. The Fibonacci sequence: - It’s a simple pattern: 1, 1, 2, 3, 5, 8, 13... -
-Each number is the sum of the two before it - Think of it like a special rhythm
-or pattern
+1. First, the problem they’re trying to solve: - Quantum computers are very fragile - They easily lose their quantum information (like a delicate house of cards falling down) - Scientists need ways to make quantum information last longer
+2. The Fibonacci sequence: - It’s a simple pattern: 1, 1, 2, 3, 5, 8, 13... - Each number is the sum of the two before it - Think of it like a special rhythm or pattern
 3. What they did: - They used lasers to ”poke” atoms in the quantum
 computer - Instead of poking randomly, they poked following the Fibonacci
 pattern - Like playing a drum following a specific rhythm
@@ -292,11 +201,14 @@ pattern - Like playing a drum following a specific rhythm
 ”phase of matter”) - Think of it like turning water (one phase) into ice (another
 phase) - But this is a quantum phase, much more exotic
 5. Why it’s important: - This new phase is more stable - Like building a
-stronger house of cards that doesn’t fall down easily - This could help make
-quantum computers more reliable
+stronger house of cards that doesn’t fall down easily - This could help make quantum computers more reliable
 The breakthrough is similar to finding a way to make a sensitive musical
 instrument that stays in tune longer instead of going out of tune quickly.
-
+2.6 Quasicrystals and Quantum Coherence
+The Fibonacci sequence acts as a quasi-periodic sequence, meaning it is ordered but not repeating. This quasi-periodic nature helps cancel out errors that typically occur at the edges of quantum states, allowing the quantum states to remain coherent for much longer periods. This is crucial for the development of reliable quantum computers.
+3
+2.6.1 Discovery
+In 1984, physicist Dan Shechtman discovered quasicrystals, a finding so revolutionary it earned him a Nobel Prize in Chemistry in 2011. These quasicrystals exhibit a form of symmetry called ”five-fold symmetry,” which is forbidden in traditional crystallography. The discovery sparked immense interest because it challenged the previously held beliefs about atomic structure.
 
 
 * BSCS 24131 Muhammad Asif 
