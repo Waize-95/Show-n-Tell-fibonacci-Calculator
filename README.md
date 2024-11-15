@@ -259,4 +259,52 @@ Digital Interfaces: Fibonacci numbers often help establish hierarchies in digita
 
 * BSCS 24083 Moiz Rehman
 
+We know that the Fibonacci sequence is given as 0,1,1,2,3,5,8,13,21,......
+Now, if we divide any term with it's previous term, We
+keep on getting closer to a number which is called the
+Golden ratio and it's approximated value is 1.618.
+Golden Ratio which is denoted by a Greek symbol Phi
+(ϕ) is the MOST IRRATIONAL NUMBER ever i.e It is
+impossible to find it's exact value.
+ϕ  = ( 1 + sqrt(5) )/2.
+The formula to find the exact value of golden ratio is
+ϕ = Lim n-> ∞ Fn+1/Fn.
+By this formula we can conclude that it is impossible to
+find the exact value of the Golden ratio.
+The time complexity to compute the golden ratio to arbitrary precision depends on the desired number of decimal
+places. However, it is impossible to compute the golden ratio with 100 percent accuracy because it is an irrational
+number.
+The golden ratio is found in natural phenomena, including the arrangement of leaves, the patterns of shells, the
+spirals of galaxies, and even the proportions of the human body that is why it is called the DIVINE PROPORTION.
+Even the ratio of your finger to your hand and the ratio of your arm to the ratio of your shoulder is 1.618.
+There are many other relations of Golden ratio to Nature, which is why some people call it Nature's Number.
+Golden Spiral:-
+The infinite spiral associated with the golden ratio is called the golden spiral. Golden spiral is a logarithmic
+spiral whose growth factor is the golden ratio (ϕ). As we know Fibonacci Sequence is given by 1,1,2,3,5,8,...
+now if we take a 1 by 1, 2 by 2, 3 by 3, 5 by 5 squares just like the Fibonacci Series. 
+We get:- The golden spiral Squares by Fibonacci Sequence.
+is constructed such that the sizes of squares drawn in its progression follow the Fibonacci sequence, and the ratio
+of their sides approaches (Φ) as the sequence extends.
 
+We can tell than Fibonacci Series is an infinite Series so the Golden Spiral is also Infinite.
+The Golden Spiral has a great significance in the designs of Nature and it also has some practical applications in Architecture( Esp for designing spiral staircases),Economics(Market Trends),Logo Designing, Arts
+and Photos (to align the picture within the spiral for visual appeal).
+       
+   Discrete and Golden Ratio:-
+
+Binary Trees:-
+In the study of binary trees and recursive structures, the golden ratio often appears when analyzing the growth
+rate of certain tree-related algorithms. For e.g For example, the number of nodes in certain
+types of binary trees grows exponentially according to the golden ratio, much like the Fibonacci sequence.
+
+Growth models:-
+In discrete growth models (like population models or branching processes), the golden ratio can emerge as a
+limiting growth factor. In these models, the ratio of successive states or stages of growth approaches ϕ as the
+process continues.
+
+In certain types of graphs or paths, the golden ratio can appear as a limiting ratio of path lengths or distances as
+the number of steps increases.
+
+Algorithm Designs:-
+Algorithms like binary search trees and certain divideand-conquer algorithms can exhibit performance improvements related to the golden ratio due to their optimal
+growth behavior. So it can help in developing efficient algorithms.
