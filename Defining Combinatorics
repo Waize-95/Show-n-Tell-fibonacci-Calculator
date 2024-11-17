@@ -1,0 +1,11 @@
+1-	Defining Combinatorics :-
+Combinatorics is a branch of mathematics focused on counting, arrangement and combinations of objects. It deals with the questions like ‘How can I choose a group from a larger set?’ or ‘How can I arrange items in a specific order?’ Combinatorics is a fundamental concept in Computer Science and Discrete Mathematics.
+
+First let us see an example that we can all relate to , so we may understand the further concepts better: 
+So, imagine Professor Mudassir is faced with the dilemma whether to pass all of us or fail some of us.
+If he fails all classes that’s one option………
+
+Some key concepts in combinatorics include Combinations and Permutations. Permutations are used when the order of selection matters and Combinations are used when the order of selection does not matter. For Example, if you are choosing a president or a vice president from a group, that would involve permutations, but on the other hand if you are only choosing a committee from that group, you’d be using combinations. 
+Understanding combinatorics is essential as it helps us solve real life problems regarding probability, decision making and optimization. In many scenarios such as determining possible outcomes in games, calculating probabilities and even organizing tasks, combinatorial principles are applied.
+
+With this foundation we can see how combinatorics concepts are not just isolated ideas but are interconnected with Fibonacci Sequence. Specifically we’ll look into some counting problems in combinatorics and see how they can lead us directly to Fibonacci numbers and there fascinating properties.
