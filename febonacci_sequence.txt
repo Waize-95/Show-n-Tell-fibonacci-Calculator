@@ -12,3 +12,5 @@ Renaissance Art: Artists from the Renaissance period, including Leonardo da Vinc
 
 Modern Art: Artists such as Salvador Dalí have also used Fibonacci-inspired proportions, particularly the Golden Rectangle, which has sides based on the ratio 1:1.618. In The Sacrament of the Last Supper, Dalí framed the work in a dodecahedron (a 12-sided polyhedron), with dimensions reflecting the Golden Ratio. This creates a transcendent, almost spiritual quality, as the proportions symbolize unity and aesthetic order.
 Organic Growth Patterns in Visual Art: The Fibonacci sequence is naturally seen in growth patterns, such as in leaves, shells, and spirals, which are also visually pleasing. Artists replicate these patterns in nature-inspired designs, creating pieces that evoke an inherent harmony. Abstract artists, for example, often use Fibonacci spirals to mimic natural growth, adding a sense of depth and movement to their work.
+3. Fibonacci Sequence in Design
+In design, whether architectural or graphic, the Fibonacci sequence offers a framework for achieving visual harmony that can enhance both aesthetics and functionality.
