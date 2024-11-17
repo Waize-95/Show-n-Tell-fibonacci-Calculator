@@ -1,0 +1,15 @@
+FUNCTION fibonacciIterative(n):
+    IF n <= 1:
+        RETURN n
+    
+    t1 = 0
+    t2 = 1
+    nextTerm = 0
+
+    FOR i FROM 2 TO n:
+        nextTerm = t1 + t2
+        t1 = t2
+        t2 = nextTerm
+
+    RETURN t2
+
