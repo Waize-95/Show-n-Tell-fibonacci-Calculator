@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\huge Show-N-Tell} \\[0.5cm]
+    \textbf{\Huge Fibonacci Sequence} \\[0.5cm]
+    \textbf{\Large Mathematical Implications:}
+\end{center}
+
+\begin{enumerate}
+    \item \textbf{Fibonacci Sequence (Iterative Method)}
+    \item \textbf{Fibonacci Sequence (Recursive Method)}
+    \item \textbf{Recurrence Relation}
+    \item \textbf{Graph Theory}
+    \begin{itemize}
+        \item Fibonacci Trees
+        \begin{itemize}
+            \item How to calculate Nodes
+            \item How to calculate Levels
+        \end{itemize}
+        \item Dynamic Programming
+        \begin{itemize}
+            \item Memoization
+        \end{itemize}
+        \item Fibonacci Graphs
+    \end{itemize}
+    \item \textbf{Number Theory}
+    \begin{itemize}
+        \item Divisibility Properties
+        \item GCD of Fibonacci
+        \item Fibonacci Primes
+        \item Coprime Properties
+    \end{itemize}
+\end{enumerate}
+
+\end{document}
