@@ -1,0 +1,12 @@
+Graph Theory.
+Up until now we have only seen how we can algebraically derive Fibonacci numbers but they are not just limited to algebra , they also have important characteristics in graph theory and one of the beautiful ways we can see Fibonacci numbers graphically is Fibonacci trees.
+What are Fibonacci Trees?
+A Fibonacci Tree is a Binary tree where the number of nodes at each level follows Fibonacci Sequence. The structure of the tree directly reflects the Fibonacci sequence, making it the perfect graphical representation of Fibonacci Numbers.
+ 
+
+This is an example of a Fibonacci Tree! .
+•	The root is F(n), which in this case is F(4)
+•	Each node represents a Fibonacci number and it branches into two child nodes.
+•	The left child represents F(n-1).
+•	The right child represents F(n-2).
+The base cases F(1) and F(0) are the leaves of the tree where recursion terminates. 
