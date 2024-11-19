@@ -1,0 +1,31 @@
+#include <iostream>
+
+// Function to generate Fibonacci sequence using iteration
+int fibonacciIterative(int n) {
+    if (n <= 1) return n;
+
+    int t1 = 0, t2 = 1;
+    int nextTerm;
+
+    for (int i = 2; i <= n; ++i) {
+        nextTerm = t1 + t2;
+        t1 = t2;
+        t2 = nextTerm;
+    }
+
+    return t2;
+}
+
+int main() {
+    int num;
+    std::cout << "Enter the position for Fibonacci (iteration): ";
+    std::cin >> num;
+
+    if (num >= 0) {
+        std::cout << "Fibonacci number at position " << num << " is: " << fibonacciIterative(num) << std::endl;
+    } else {
+        std::cout << "Please enter a non-negative integer." << std::endl;
+    }
+
+    return 0;
+}

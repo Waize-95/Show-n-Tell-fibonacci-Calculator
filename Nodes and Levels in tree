@@ -1,0 +1,12 @@
+How to calculate the number of levels?
+It’s easy we can already see that the number of levels in a Fibonacci tree for F(n) is ‘n’.
+The tree starts at level 0 with F(n) and recursively branches down until it reaches the base cases at level (n-1) and n. 
+As we move to higher Fibonacci numbers, the number of levels in the Fibonacci tree also increases. For example, the Fibonacci tree for F(5) has 5 levels, while the tree for F(8) has 8 levels. This reflects the growing complexity of the recursive structure as the Fibonacci number increases.
+How to calculate the number of Nodes?
+Now that we’ve understood the structure of Fibonacci tree along with the calculation of the number of levels, we are now going to see how to calculate the number of nodes in a tree.
+The way of calculating the number of nodes is pretty straight forward too.
+N(n)=N(n-1) + N(n-2) + 1
+N(n): The number of nodes at level n in a Fibonacci tree.
+N(n-1): The number of nodes at level n-1.
+N(n-2): The number of nodes at level n-2.
++1 : This accounts for the root level node.

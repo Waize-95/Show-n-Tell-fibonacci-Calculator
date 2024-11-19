@@ -1,0 +1,11 @@
+Number of Operations:
+The number of operations in the above code are 4n+1. 
+Base Case Check : (n==0 || n==1)
+Total operations : 3 (two assignment, one logical)
+Variable Initialization : (a=0 && b==1)
+Total operations : 2 (one for x one for  y)
+Loop : (i=1 and The loop runs n-1 times)
+	Inside The Loops: ( 1 Addition, 2 Assignments)
+Total operations : 4(n-1).
+
+Total number of Operations : 3 + 2 + (4n-4) = 4n+1.

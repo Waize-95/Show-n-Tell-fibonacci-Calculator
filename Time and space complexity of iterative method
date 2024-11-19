@@ -1,0 +1,7 @@
+Time Complexity :
+4n+1 is the total number of operations performed by our Fibonacci function. However, in Big O notation, constants and lower-order terms are ignored because they don't significantly affect the growth rate as n increases. Therefore, the time complexity is O(n).
+This means that the number of operations grow linearly  with input size n.
+
+Space Complexity :
+The function uses  a constant amount of memory regardless the size of n. The only space it uses is for variables ‘x’ , ‘y’ and ‘z’. 
+So, the space complexity is O(1).

@@ -1,0 +1,7 @@
+Now that we’ve explored the iterative and recursive methods for calculating Fibonacci Numbers, let’s take a moment to dive deeper into the underlying structure that makes both of these methods work: Recurrence Relations!
+Definition: “A recurrence relation is an equation that recursively defines a sequence of values based on previous terms. In the case of Fibonacci Sequence, each number is the sum of two preceding ones, which is essentially a Recurrence Relation.”
+So, whether we’re using the iterative or recursive method, both are just ways of solving recurrence relation that defines the Fibonacci Sequence. Let’s now take a closer look at recurrence relations and how they help us formalize Fibonacci Numbers.
+In Fibonacci the recurrence relation is:
+              F(n)=F(n-1) + F(n-2)
+With base cases,
+                  F(0)=0 , F(1)=1

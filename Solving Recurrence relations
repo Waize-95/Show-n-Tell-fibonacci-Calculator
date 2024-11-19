@@ -1,0 +1,6 @@
+Solving Recurrence Relations:
+1-	One of the ways of solving these relations is the iterative method which you have already seen , where we just plug in values and solve them step by step.
+2-	Another way is the closed form solutions !
+The closed form solution of the Recurrence Relation is an expression that directly computes the value of a sequence without the need for recursion or iteration. Instead of repeatedly applying the recurrence relations, the closed form solution gives you the formula that allows you to calculate the ‘nth’ term directly without referencing the previous terms. 
+
+
