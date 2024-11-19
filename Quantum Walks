@@ -1,0 +1,9 @@
+Quantum walk is a key operation in quantum computing, simulation, communication and information. 
+Here, we report for the first time the demonstration of quantum walks and localized quantum walks in a new type of optical fibers having 
+a ring of cores constructed with both periodic and quasiperiodic Fibonacci sequences, respectively. Good agreement between theoretical and experimental 
+results has been achieved. The new multicore ring fibers provide a new platform for experiments of quantum effects in low-loss optical fibers
+which is critical for scalability of real applications with large-size problems. Furthermore, our new quasiperiodic Fibonacci multicore ring fibers provide 
+a new class of quasiperiodic photonics lattices possessing both on- and off-diagonal deterministic disorders for realizing localized quantum walks deterministically. 
+The proposed Fibonacci fibers are simple and straightforward to fabricate and have a rich set of properties that are of potential use for quantum applications.
+Our simulation and experimental results show that, in contrast with randomly disordered structures, localized quantum walks in new proposed quasiperiodic photonics 
+lattices are highly controllable due to the deterministic disordered nature of quasiperiodic systems.
