@@ -1,0 +1,7 @@
+Explanation of Pseudocode:
+1-	The input to the function is ‘n’ which is the desired term.
+2-	Then we define the condition that if ‘n’ is equal to 0 or 1, the function immediately return ‘n’ as this is the base case.
+3-	We initialize our ‘x’ variable by 0 representing F(0) and ‘y’ variable as 1 representing F(1).
+4-	Then the loop starts from 1 and goes up to (n-1).{At i=1, the loop is calculating the second Fibonacci number so the loop will only go up to n-1}.
+5-	At each iteration, ‘z’ is calculated as the next Fibonacci term while x and y are initialized to the next terms.
+6-	After the loop ends y holds the desired value.
