@@ -1,0 +1,16 @@
+In Fibonacci the recurrence relation is:
+              F(n)=F(n-1) + F(n-2)
+With base cases,
+                  F(0)=0 , F(1)=1
+This type of recurrence relation is Linear and homogeneous. Which means:
+Linear: Term is a combination of preceding terms. 
+Homogeneous: The Sequence depends only on previous terms
+
+Some other types of Recurrence Relations are :
+Non-Linear: A relation where the terms are combinations in a non-linear way i.e., through multiplications or exponents.
+Example: Factorial Sequence :
+F(n) = n. F(n-1), F(0) =1.
+Non-Homogeneous : A Sequence that not only depends on the previous terms but also has any additional independent terms.
+Example: Arithmetic Sequence with a Linear term
+an = 2an-1 +n , a(0)=1
+This recurrence has an additional term ‘n which makes it non-linear
