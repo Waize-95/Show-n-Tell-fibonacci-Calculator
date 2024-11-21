@@ -1,0 +1,11 @@
+Quantum many-body systems with a non-Abelian topological order can host anyonic quasiparticles. 
+It has been proposed that anyons could be used to encode and manipulate information in a topologically protected manner that is immune to local noise,
+with quantum gates performed by braiding and fusing anyons. Unfortunately, realizing non-Abelian topologically ordered states is challenging, 
+and it was not until recently that the signatures of non-Abelian statistics were observed through digital quantum simulation approaches.
+However, not all forms of topological order can be used to realize universal quantum computation. Here we use a superconducting quantum 
+processor to simulate non-Abelian topologically ordered states of the Fibonacci string-net model and demonstrate braidings of Fibonacci anyons 
+featuring universal computational power. We demonstrate the non-trivial topological nature of the quantum states by measuring the topological entanglement entropy. 
+In addition, we create two pairs of Fibonacci anyons and demonstrate their fusion rule and non-Abelian braiding statistics by applying unitary gates on the underlying physical qubits.
+Our results establish a digital approach to explore non-Abelian topological states and their associated braiding statistics with current noisy intermediate-scale quantum
+processors.
+

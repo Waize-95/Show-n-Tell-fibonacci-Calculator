@@ -1,0 +1,5 @@
+FUNCTION fibonacciRecursive(n):
+    IF n <= 1:
+        RETURN n
+    
+    RETURN fibonacciRecursive(n - 1) + fibonacciRecursive(n - 2)

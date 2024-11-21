@@ -1,0 +1,31 @@
+Explanation of Pseudocode :
+1-	The input of the function is ‘n’, which is the desired Fibonacci Term.
+2-	If ‘n==0’  return 0 that is the first Fibonacci Number.
+3-	If ‘n==1’ return 1 that is the second Fibonacci Number.
+4-	If n > 1, The function makes two recursive calls, which gives the next Fibonacci number as per the relation : 
+               F(n)=F(n-1) + F(n-2)
+5-	The final result returned from the recursive calls will be F(n). 
+
+Example:
+Fibonacci(5) = Fibonacci(4) + Fibonacci (3) = (Fibonacci(3) +Fibonacci(2)) + (Fibonacci(2) +Fibonacci(1)).
+and so on until it reaches base cases of 0 and 1.
+
+Number of Operations :
+The number of operations(recursive calls) is therefore proportional to the number of recursive calls, which grows exponentially as O(2n).
+
+Base Case Check: (n==0 || n==1)
+Total Operations: 3 ( two assignment, one logical)
+Recursive Calls : (Fibonacci(n-1) and Fibonacci(n-2))
+Total Operations : O(2n ).
+
+Time Complexity : 
+The number of operations grows exponentially with respect to n because each function call spawns two more recursive calls. Thus, the total number of recursive calls grows as O(2n).
+So, time Complexity O(2n ).
+This is because the function recursively calls itself for both n−1n-1n−1 and n−2n-2n−2, which leads to an exponential number of calls.
+
+Space Complexity :
+
+The space complexity of the recursive Fibonacci Sequence is determined by the maximum depth of the recursion stack, as each recursive call adds a new frame to the stack. In the worst case , the recursion depth is n, since each recursive call reduces ‘n’ only by 1 until base case is reached.
+So, Space Complexity is O(n). 
+
+

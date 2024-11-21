@@ -1,0 +1,16 @@
+Q- How can I make this more interactive and visual to engage the audience?
+Ans-
+1. Visual Pattern Exploration with Color-Coding:
+Preparation of a chart that shows the divisibility of the Fibonacci numbers.
+2. Interactive �Mod� Activity
+   Give each participant a small card with a Fibonacci number on it and have them apply modular arithmetic. 
+   For example, they can divide their number by 3 and note the remainder (the �mod 3� result).
+   Ask them to call out their mod results to reveal Pisano periods (the cycle lengths in mod). 
+   You could demonstrate, for instance, that the sequence mod 3 will show a repeating pattern of 8 terms.
+3. Digital Visualization with Calculators or an App
+If a Fibonacci calculator or app is available, show how quickly it computes terms. 
+You can use this to explore specific numbers that are divisible by chosen divisors
+4. Real-World Connection
+   To engage their curiosity, explain briefly how this modular repetition (Pisano periods) has applications,
+   such as in cryptography. You could mention how cryptographic algorithms rely on these cycles for encoding
+   information securely, adding a real-world relevance to the concept,

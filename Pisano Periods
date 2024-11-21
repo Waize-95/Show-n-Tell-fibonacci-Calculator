@@ -1,0 +1,12 @@
+* Pisano periods :-
+
+A Pisano period, denoted as ?(m)\pi(m)?(m), is the length of the repeating cycle of the Fibonacci sequence taken modulo m. In other words, 
+if you calculate the Fibonacci numbers and reduce them modulo m,
+ the sequence of remainders will eventually start to repeat. The length of this cycle is the Pisano period for m.
+
+*  Computational Efficiency: Pisano periods allow for efficient calculations of Fibonacci numbers in modular arithmetic. Instead of calculating large Fibonacci numbers directly, one can compute the remainder when divided by mmm using the period.
+*  Number Theory: They reveal deep relationships between Fibonacci numbers and modular arithmetic. For example, properties like the GCD (greatest common divisor) can often be explored through Pisano periods.
+*  Applications in Cryptography: Some cryptographic algorithms may use Fibonacci sequences, and understanding Pisano periods can enhance the efficiency and security of these systems.
+*  Patterns in Nature: The occurrence of Pisano periods can also relate to patterns seen in nature and mathematical structures, showing the interconnectedness of different fields.
+
+

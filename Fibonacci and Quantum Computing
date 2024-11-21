@@ -1,0 +1,12 @@
+4 Fibonacci and Quantum Computing
+4.1 Fibonacci Anyons
+In topological quantum computing, Fibonacci anyons are hypothetical particles
+that follow non-Abelian statistics. These particles are so named because their
+quantum states follow the Fibonacci sequence. When anyons are braided (moved
+4
+around one another), they change the quantum state of the system in a way
+that depends on the order of the braiding, a property crucial for topological
+quantum computing. The robustness of these quantum states against local
+perturbations makes them ideal for creating stable qubits. Using Fibonacci
+anyons in a topological quantum computer could pave the way for more resilient
+and efficient quantum computations.
