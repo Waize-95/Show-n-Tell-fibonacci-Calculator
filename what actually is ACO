@@ -1,0 +1,4 @@
+What is an ACO?
+
+Ant Colony Optimization (ACO) is a metaheuristic inspired by how ants collectively find the shortest path to food. Ants use pheromones as a form of indirect communication. When an ant finds food, it reinforces its trail with pheromones, attracting other ants. Over time, shorter paths accumulate stronger pheromones, while longer paths fade due to evaporation. This leads the colony to converge on the optimal route.
+In computer science, ACO solves optimization problems like the Traveling Salesman Problem (TSP), where the goal is to find the shortest route visiting all cities. Virtual "ants" are deployed in the problem space, depositing virtual pheromones as they traverse paths. The probability of an ant choosing a path depends on the pheromone intensity and a heuristic factor, such as path distance.
