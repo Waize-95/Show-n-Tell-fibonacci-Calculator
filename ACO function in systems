@@ -1,0 +1,2 @@
+How ACOs Function in Systems
+ACO is an iterative, nature-inspired algorithm designed to solve optimization problems. It mimics the behavior of ants searching for food. In a system, ants explore paths between points, depositing pheromones as they move. Over time, these pheromone trails guide other ants, reinforcing shorter and more efficient paths.
