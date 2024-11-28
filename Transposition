@@ -1,0 +1,14 @@
+Transposition cipher is a cryptographic method in which the positions of characters in the plain text are rearranged according to a specific algorithm. Basically some sort of permutation is applied to replace them. Since the position of characters is changed that’s why it is referred as transposition.
+
+
+Example
+.Rail Fence Transposition
+.Row Column Transposition
+
+RAIL FENCE TRANSPOSITION
+Definition
+Rail Fence Transposition is the simplest form of transposition. In this technique plain text is written down as sequence of diagonals and read off as sequence of rows. This technique mainly depends upon the depth value.
+Key
+Depth value is actually the number of rows chosen to convert this in cipher text. This is actually like a key which is already decided between sender and receiver.
+Example
+ Let’s say I want to send a message ITU UNIVERSITY by using depth value 2. Now you have 2 rows start writing first word in first row and second word in second column continue until the full message is written. Now read it row by row and you got yourself a cipher text IUNVRIEST.
