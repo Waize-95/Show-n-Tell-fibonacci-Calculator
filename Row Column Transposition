@@ -1,0 +1,7 @@
+ROW COLUMN TRANSPOSITION
+Definition
+This transposition technique is a bit more complex than the previous one. In this scheme we take a rectangle the number of rows and columns of the rectangle are already decided between the sender and the receiver. The plain text is written row by row and the cipher text is read off column by column but here comes a very important thing. The key.
+Key
+There is a certain pattern or order in which the columns are read and the cipher text is generated Again this key is already decided between the sender and the receiver which helps the receiver to decrypt the message.
+Example
+Now let’s take a sentence KILL CORONA VIRUS AT TWELVE AM TOMOROOW. Now take a rectangle of 6 rows and 5 columns write the message row by row and according to the key let’s say 4312567. Please not that this key is actually written in this order on the rows and we read these rows according to this key not by row number and after that we get our cipher text which in this case is LATARLVTMOINAERKOSVOCIWTWOREOYRULEMZ. You can repeat this process again to create a more complex cipher text.
