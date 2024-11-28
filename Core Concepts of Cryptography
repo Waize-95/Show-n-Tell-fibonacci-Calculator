@@ -1,0 +1,5 @@
+CORE CONCEPTS
+Symmetric Encryption
+In simple words in symmetric encryption sender sends a message to receiver by encrypting the message with a key now receiver can decrypt this message only with the same key. The biggest challenge here is key exchange, how they can safely exchange keys. Well if the key is sent with the message then encrypting this makes no sense.
+Asymmetric Encryption
+Asymmetric encryption is a more reliable or safe method of communication. In asymmetric encryption each sender and receiver has two keys. One public key and the other one is Private Key. Now let’s say A wants to send a message to B. Now their public key is known by everyone but thing about private key is that no one knows about it except the owner. Perfectly solving the issue of key exchanging. Here A will encrypt the message with the public key of B and this message will be encrypted with the private key of B. If the message is encrypted with someone’s public key it can only be encrypted with his private key.
