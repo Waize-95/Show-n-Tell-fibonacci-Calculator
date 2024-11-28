@@ -1,0 +1,11 @@
+SUBSTITUTION
+Substitution is a technique in which letters are replaced by some other letters. There is no specific method or rule for this you can substitute it however you want. Basically you are the one here to make rule according to you or however you like.
+Earliest Use
+Substitution has existed since the times of Greece and it is in fact more complex or much more efficient and reliable method of cryptography than substitution as complex encryption in transposition also created issues for the receiver. Some of the earliest substitution method was CEASER CIPHER which again was used in times of Greece. Interesting thing about cryptography is the actual need of it raised because of war as military messages play a key role in these crucial times.
+CEASER CIPHER
+CEASER cipher was the most popular cipher in the earliest time. It traditionally used shift of three letters from the alphabetical order. This is not some kind of restriction in substitution it was just how CEASER used it. Here the shift of three was a key which was already decided between the sender and the receiver.
+More generically it can also be written as (l + k) mod 26. Here l is the letter K is the key and mod 26 basically keeps you in a loop of these letters. You will understand when you have to shift Y.
+Draw Backs
+So there are total of 26 variations of CEASER CIPHER and if someone knows that CEASER CIPHER was used to encrypt this message it will take no time to decrypt because of only 26 variation. By 26 variations I mean 26 types of shift as there are only 26 letters in alphabet. 
+Solution
+ A better solution to this to this is to replace them randomly as it will create 400 followed by 24 zeroes of permutation. That’s a lot of combination. But this can also sometimes create difficulties for the receiver as it will also be hard for him to decrypt.
