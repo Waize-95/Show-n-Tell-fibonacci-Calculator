@@ -1,0 +1,9 @@
+QUANTUM CRPYTOGRAPHY
+Introduction to Quantum Cryptography
+So quantum cryptography is different from rest as it is defendant on the laws of physics which makes it impossible for eve dropper to know the exact key. It specifically depends on Heisenberg’s uncertainty principle and on no-cloning theory. 
+
+Key
+So let me explain u this by using the simplest key exchanging method which is BB84. So first understand this that here photons are used to make a key. Here comes the Heisenberg’s uncertainty principle which tells us that one cannot know everything about the quantum state of a particle. So photons are always in spin motion. This motion can be changed by using filters like horizontal, vertical, forward slash, back slash shape like filters. Now vertical and backslash shape filter is known as 1 and horizontal and forward slash 0. Now there are particularly two basis rectilinear base and diagonal base.
+Now let’s say sends photons to B using random filters and same way B will also use random filters to receive them. They now share the basis used publically and will make the key of the bits in which same filters were used. Now the share the subset of the key. Here comes the major part of the subset key is not same they will instantly know there an eve dropper. Let me explain for sue the eve dropper will one time use the wrong filter altering the spin direction of bit which will also change the bit thus forcing them to abandon they key.
+No-Cloning Theory
+Well one can imagine what if clone these photons well there is a theory called no-cloning theory which prevents one from cloning these photons so basically there is no method as it is based on laws of physics. And there can only be one state of photon which mathematical form is known as discrete thus giving it a name quantum.
