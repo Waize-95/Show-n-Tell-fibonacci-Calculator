@@ -1,0 +1,10 @@
+KEYWORD CIPHER
+A much better method of substitution is keyword substitution as it is more complex hard to decrypt and easier for the receiver to decrypt.
+EXAMPLE
+In keyword cipher the sender and the receiver agree upon a key which is basically a word so in the case let’s take a key for example LOOP now we remove the repeating letters and it becomes LOP now by writing this first just write the rest of the alphabets excluding these. Let’s say I want to encrypt the word HEELO we simply write normal 26 alphabets and replace them with the previous one and you got yourself a cipher text.
+
+HISTORICAL EVOLUTION of CRYPTOGRAPHY
+Substitution was such a powerful method of encryption that it lasted centuries like it had been used by every empire that had existed. It was successfully used in 50ad, 100ad, 250ad, 500ad, 600ad, 700ad, it lasted until 8th century. I mean something that had been a part of our history and important part of every greatest empire that existed and we knew nothing about it. Well it lasted until 8th century. We all know about the golden period of ISLAMIC world. How BAGHDAD had become center of the knowledge for the whole world. These times brought up a man named ABU YUSUF. The man who finally decrypted these substitution ciphers particularly keyword cipher. The method introduced by him is known as frequency analysis.
+Frequency Analysis
+This method is really simple. I will try to make it as simple as possible for better understanding. Just take the plain text cipher and count the frequency of every word and write them in order of their frequency like the word with higher frequency at top and vice versa. Then take a text a full page long text and again count the frequency and write them in same order. Now replace the cipher text letter with the highest frequency letter taken from text and we do it in order just like that you have successfully decoded a substitution cipher that had been used for centuries by greatest empires of our world.
+
